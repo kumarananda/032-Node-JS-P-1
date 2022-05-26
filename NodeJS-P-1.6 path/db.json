@@ -1,0 +1,19 @@
+{
+  "devs": [
+    {
+      "id": 1,
+      "name": "Ananda",
+      "skill": "MERN"
+    },
+    {
+      "id": 2,
+      "name": "Ananda",
+      "skill": "MERN"
+    },
+    {
+      "id": 3,
+      "name": "Ananda",
+      "skill": "MERN"
+    }
+  ]
+}
