@@ -19,6 +19,7 @@
 import { appendFileSync, writeFileSync } from "fs";
 // but we can chanhe to synchronies
 // writeFileSync will replace the file
-// writeFileSync("note.pdf", "File System(writeFileSync) Created text,");
+writeFileSync("note.txt", "File System(writeFileSync) Created text,");
 
-appendFileSync("note.txt", " appendFileSync will add new text");
+appendFileSync("note.txt", "\nappendFileSync will add new text");
+appendFileSync("note.txt", "\nappendFileSync will add new text");
